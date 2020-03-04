@@ -1,0 +1,21 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-inner{
+    padding: 20px 40px;
+}
+.btn-btn{
+    background-image: linear-gradient(to bottom, gray 0%,black 100%);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.card{
+    text-align: center;
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 20px;
+}
+
